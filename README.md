@@ -1,6 +1,6 @@
 # java2023
 
-
-Lab02: Bartosz Kosmala
+Lab01: Bartosz Kosmala
 
 Repozytorium: Bartosz Kosmala
+
