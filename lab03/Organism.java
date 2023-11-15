@@ -39,6 +39,7 @@ public abstract class Organism {
     target.setEnergy(0);
     board.removeOrganism(target.getPosition());
     System.out.println("Organism ate target on position (" + target.getPosition().getX() + ", " + target.getPosition().getY() + ")");
+    System.out.println("Its energy: " + getEnergy());
   }
   public void setPosition(Position position) {
     this.position = position;
